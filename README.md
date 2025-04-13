@@ -3,8 +3,7 @@
 [![Project Status](https://img.shields.io/badge/Status-Exploring-yellow.svg)](https://github.com/Davyy191119/rust-projects/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Rust-%E2%80%AF1.60+-orange.svg)](https://www.rust-lang.org/)
-[![Crates.io](https://img.shields.io/crates/v/[Your Primary Crate Name, if applicable].svg)](https://crates.io/crates/[Your Primary Crate Name, if applicable])
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)](https://github.com/[Your GitHub Username]/[Your Repository Name]/commits/main)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)](https://github.com/[Davyy191119]/[rust-projects]/commits/main)
 [![Rust CI](https://github.com/[Davyy191119]/[rust-projects]/actions/workflows/rust.yml/badge.svg)](https://github.com/[Davyy191119]/[rust-projects]/actions/workflows/rust.yml) > Exploring the power and elegance of Rust for implementing fundamental machine learning concepts.
 
 <br>
@@ -88,15 +87,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-[Your Name] - [Your Email Address]
+[David] - [ndikimuchiri@gmail.com]
 
-[Link to your GitHub Profile]
+[https://github.com/Davyy191119]
 
-## 🙏 Acknowledgments
-
-* [Mention any resources, tutorials, or projects that inspired you or were helpful.]
-* [Example: The implementation of [Specific Algorithm] was inspired by [Source].]
-
----
 
 Made with ❤️ in Rust by [Davyy191119]
